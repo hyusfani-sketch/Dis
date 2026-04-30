@@ -118,3 +118,50 @@ footer {
 
 </body>
 </html>
+ <img src="https://via.placeholder.com/50" alt="logo">
+        <div>
+            <h3>DISHUB</h3>
+            <small>Kutai Timur</small>
+        </div>
+    </div>
+
+    <nav>
+        <a href="#">Beranda</a>
+        <a href="#">Profil</a>
+        <a href="#">Layanan</a>
+        <a href="#">Kontak</a>
+    </nav>
+</header>
+
+<div class="hero">
+    <h1>Selamat Datang</h1>
+    <p>Website Resmi Dinas Perhubungan</p>
+</div>
+
+<div class="section">
+    <h2>Profil</h2>
+    <p>Dinas Perhubungan Kabupaten Kutai Timur berperan dalam pengelolaan transportasi, lalu lintas, dan pelayanan publik.</p>
+</div>
+
+<div class="section">
+    <h2>Layanan</h2>
+    <div class="grid">
+        <div class="card">Uji KIR Kendaraan</div>
+        <div class="card">Perizinan Angkutan</div>
+        <div class="card">Manajemen Lalu Lintas</div>
+    </div>
+</div>
+
+<div class="section">
+    <h2>Kontak</h2>
+    <p>📍 Alamat: Kutai Timur</p>
+    <p>📧 Email: dishub@email.com</p>
+    <p>📞 Telp: 08xxxxxxx</p>
+</div>
+
+<footer>
+    <p>© 2026 Dinas Perhubungan Kutai Timur</p>
+</footer>
+
+</body>
+</html>
